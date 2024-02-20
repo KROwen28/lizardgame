@@ -12,8 +12,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_projectile","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"propertyId":{"name":"projectile_angle","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"value":"-90",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "combat_objects",
+    "path": "folders/Objects/combat_objects.yy",
   },
   "parentObjectId": {
     "name": "obj_parent_projectile",

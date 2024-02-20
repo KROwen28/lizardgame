@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_combat_area",
+  "name": "obj_game_attacking",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "combat_objects",
-    "path": "folders/Objects/combat_objects.yy",
+    "name": "controls",
+    "path": "folders/Objects/combat_objects/controls.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "combat_box",
-    "path": "sprites/combat_box/combat_box.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

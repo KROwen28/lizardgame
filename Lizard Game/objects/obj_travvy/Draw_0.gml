@@ -1,10 +1,10 @@
-/// @description draw 
+/// @description draw healthbar and death message
 
 
 //health bar
-draw_healthbar(72, room_height-15, 162, room_height-5, health, c_red, c_green, c_green, 0, true, false);
+draw_healthbar(62, room_height-15, 152, room_height-5, health, c_red, c_green, c_green, 0, true, false);
 draw_set_font(Font2);
-draw_text(75, room_height-25, string(health) + "/100");
+draw_text(65, room_height-25, string(health) + "/100");
 
 //death message
 if(dead = true){

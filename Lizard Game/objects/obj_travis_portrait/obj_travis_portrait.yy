@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object8",
+  "name": "obj_travis_portrait",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "portraits",
+    "path": "folders/Objects/portraits.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -1,13 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_combat_area",
-  "eventList": [],
+  "name": "obj_game_controls",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "combat_objects",
-    "path": "folders/Objects/combat_objects.yy",
+    "name": "controls",
+    "path": "folders/Objects/combat_objects/controls.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,10 +27,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "combat_box",
-    "path": "sprites/combat_box/combat_box.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
