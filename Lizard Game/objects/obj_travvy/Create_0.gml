@@ -11,7 +11,7 @@ movement_speed = 1.65;
 
 colliding = false;
 
-dead = false;
+
 
 
 

@@ -1,15 +1,9 @@
-/// @description draw healthbar and death message
-
-
-//health bar
-draw_healthbar(62, room_height-15, 152, room_height-5, health, c_red, c_green, c_green, 0, true, false);
-draw_set_font(Font2);
-draw_text(65, room_height-25, string(health) + "/100");
+/// @description death message
 
 //death message
-if(dead = true){
+if(obj_travis_portrait.dead = true){
 	draw_set_font(Font1);
-	draw_text(45, 100, "You Fuckig died");
+	draw_text(room_width/2, 100, "You Fuckig died");
 } else {
 	draw_self()
 };

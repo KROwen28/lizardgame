@@ -1,3 +1,7 @@
 /// @description Insert description here
-alarm[0] = 60;
+//create projectile
+alarm[0] = 30;
+
+//end room in:
+alarm[1] = 10 * 60;
 

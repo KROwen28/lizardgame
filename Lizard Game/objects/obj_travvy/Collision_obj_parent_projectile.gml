@@ -1,5 +1,5 @@
 /// @description handle collision with projectile
-health -= other.projectile_damage;
+obj_travis_portrait.health -= other.projectile_damage;
 audio_play_sound(snd_undertale_take_dmg, 1, false);
 
 if(health <= 0){
