@@ -1,8 +1,8 @@
 /// @description Insert description here
-health = 100;
+persistent = true;
+
+depth = -500
+
+lizard_health = 100;
 
 dead = false;
-
-
-
-

@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "blackbox",
-    "path": "sprites/blackbox/blackbox.yy",
+    "name": "spr_blackbox",
+    "path": "sprites/spr_blackbox/spr_blackbox.yy",
   },
   "spriteMaskId": null,
   "visible": true,

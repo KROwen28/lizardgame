@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "moth_boss",
-    "path": "sprites/moth_boss/moth_boss.yy",
+    "name": "spr_moth_boss",
+    "path": "sprites/spr_moth_boss/spr_moth_boss.yy",
   },
   "spriteMaskId": null,
   "visible": true,

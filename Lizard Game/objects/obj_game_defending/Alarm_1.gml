@@ -1,3 +1,4 @@
 /// @description end phase
-room_goto(rm_combat_option_select)
+if(inst_travis.dead = false)
+	room_goto(rm_combat_option_select);
 

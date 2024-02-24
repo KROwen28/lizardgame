@@ -35,8 +35,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "cock",
-    "path": "sprites/cock/cock.yy",
+    "name": "spr_cock",
+    "path": "sprites/spr_cock/spr_cock.yy",
   },
   "spriteMaskId": null,
   "visible": true,

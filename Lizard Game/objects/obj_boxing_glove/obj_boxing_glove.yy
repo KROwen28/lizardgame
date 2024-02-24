@@ -35,8 +35,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "boxing_glove",
-    "path": "sprites/boxing_glove/boxing_glove.yy",
+    "name": "spr_boxing_glove",
+    "path": "sprites/spr_boxing_glove/spr_boxing_glove.yy",
   },
   "spriteMaskId": null,
   "visible": true,

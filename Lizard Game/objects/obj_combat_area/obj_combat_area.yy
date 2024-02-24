@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "combat_box",
-    "path": "sprites/combat_box/combat_box.yy",
+    "name": "spr_combat_box",
+    "path": "sprites/spr_combat_box/spr_combat_box.yy",
   },
   "spriteMaskId": null,
   "visible": true,
