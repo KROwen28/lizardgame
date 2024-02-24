@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "controls",
-    "path": "folders/Objects/combat_objects/controls.yy",
+    "name": "barry",
+    "path": "folders/Objects/barry.yy",
   },
   "parentObjectId": null,
   "persistent": false,

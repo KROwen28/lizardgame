@@ -1,5 +1,5 @@
 /// @description on button clicked
-room_goto(rm_combat_attack);
+room_goto(attack_room);
 
 
 
