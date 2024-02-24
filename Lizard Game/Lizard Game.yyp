@@ -69,6 +69,7 @@
     {"id":{"name":"snd_undertale_take_dmg","path":"sounds/snd_undertale_take_dmg/snd_undertale_take_dmg.yy",},},
     {"id":{"name":"_4__New_Projecto","path":"sounds/_4__New_Projecto/_4__New_Projecto.yy",},},
     {"id":{"name":"spr_briefcase","path":"sprites/spr_briefcase/spr_briefcase.yy",},},
+    {"id":{"name":"Font3","path":"fonts/Font3/Font3.yy",},},
     {"id":{"name":"travis_portrait","path":"sprites/travis_portrait/travis_portrait.yy",},},
     {"id":{"name":"snd_fuck_sound_effect","path":"sounds/snd_fuck_sound_effect/snd_fuck_sound_effect.yy",},},
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
@@ -79,6 +80,7 @@
     {"id":{"name":"obj_attack_button","path":"objects/obj_attack_button/obj_attack_button.yy",},},
     {"id":{"name":"obj_barry_portrait","path":"objects/obj_barry_portrait/obj_barry_portrait.yy",},},
     {"id":{"name":"spr_moth_boss","path":"sprites/spr_moth_boss/spr_moth_boss.yy",},},
+    {"id":{"name":"rm_combat_victory","path":"rooms/rm_combat_victory/rm_combat_victory.yy",},},
     {"id":{"name":"_3__jungle_beat","path":"sounds/_3__jungle_beat/_3__jungle_beat.yy",},},
     {"id":{"name":"obj_cock","path":"objects/obj_cock/obj_cock.yy",},},
     {"id":{"name":"_6__people_music","path":"sounds/_6__people_music/_6__people_music.yy",},},
@@ -92,6 +94,7 @@
     {"roomId":{"name":"rm_combat_option_select","path":"rooms/rm_combat_option_select/rm_combat_option_select.yy",},},
     {"roomId":{"name":"rm_combat_attack","path":"rooms/rm_combat_attack/rm_combat_attack.yy",},},
     {"roomId":{"name":"rm_combat_defending","path":"rooms/rm_combat_defending/rm_combat_defending.yy",},},
+    {"roomId":{"name":"rm_combat_victory","path":"rooms/rm_combat_victory/rm_combat_victory.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

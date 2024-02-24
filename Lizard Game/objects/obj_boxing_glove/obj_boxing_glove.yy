@@ -8,7 +8,7 @@
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_projectile","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"propertyId":{"name":"projectile_speed","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"value":"2.75",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_projectile","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"propertyId":{"name":"projectile_damage","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"value":"15",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_projectile","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"propertyId":{"name":"projectile_damage","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"value":"5",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_projectile","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"propertyId":{"name":"projectile_angle","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"value":"180",},
   ],
   "parent": {
