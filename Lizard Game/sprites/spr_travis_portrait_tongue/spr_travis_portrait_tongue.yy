@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "travis_portrait",
+  "name": "spr_travis_portrait_tongue",
   "bbox_bottom": 31,
-  "bbox_left": 0,
-  "bbox_right": 28,
-  "bbox_top": 5,
+  "bbox_left": 7,
+  "bbox_right": 31,
+  "bbox_top": 10,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f077348e-6204-4e61-9155-d971beb18087",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b9109247-608d-4e6d-87d8-9115011d5508",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 32,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"931e465b-1644-43cb-9c89-fdfcf93490f2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5fcbc25b-0240-412d-a340-8e726acd84c7","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "travis_portrait",
+    "name": "spr_travis_portrait_tongue",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f077348e-6204-4e61-9155-d971beb18087","path":"sprites/travis_portrait/travis_portrait.yy",},},},"Disabled":false,"id":"d3e42b52-8aa1-4bac-8aa8-02d203d0622d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b9109247-608d-4e6d-87d8-9115011d5508","path":"sprites/spr_travis_portrait_tongue/spr_travis_portrait_tongue.yy",},},},"Disabled":false,"id":"e0f3cc24-8247-4257-bfa3-386ddc196831","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

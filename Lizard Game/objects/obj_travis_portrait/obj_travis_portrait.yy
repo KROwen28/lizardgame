@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "travis_portrait",
-    "path": "sprites/travis_portrait/travis_portrait.yy",
+    "name": "spr_travis_portrait",
+    "path": "sprites/spr_travis_portrait/spr_travis_portrait.yy",
   },
   "spriteMaskId": null,
   "visible": true,
