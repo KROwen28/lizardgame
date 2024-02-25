@@ -3,9 +3,7 @@
   "resourceVersion": "1.0",
   "name": "obj_attack_button",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":90,"eventType":9,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -32,8 +30,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "spr_attack_button",
-    "path": "sprites/spr_attack_button/spr_attack_button.yy",
+    "name": "spr_attack_button_yellow",
+    "path": "sprites/spr_attack_button_yellow/spr_attack_button_yellow.yy",
   },
   "spriteMaskId": null,
   "visible": true,

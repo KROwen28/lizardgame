@@ -2,10 +2,9 @@
 - DONE FIX SHARK BUG
 - DONE make shark actually take damage
 - DONE fix shark game music
-
-- change origin point of heart (travvy) sprite and fix clamp method
-- make item button in controls and swap control scheme to button select instead of mouse
-- change button to have yellow outline as well
+- DONE change origin point of heart (travvy) sprite and fix clamp method
+- DONE make item button in controls and swap control scheme to button select instead of mouse
+- DONE change button to have yellow outline as well
 
 -add damage and death portraits to shark
 
