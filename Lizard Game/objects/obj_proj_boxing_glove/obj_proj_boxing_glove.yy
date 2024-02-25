@@ -14,8 +14,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_projectile","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"propertyId":{"name":"defending_control","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"value":"obj_bear_game_defending",},
   ],
   "parent": {
-    "name": "barry",
-    "path": "folders/Objects/barry.yy",
+    "name": "projectiles",
+    "path": "folders/Objects/barry/projectiles.yy",
   },
   "parentObjectId": {
     "name": "obj_parent_projectile",

@@ -39,6 +39,8 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"projectiles","folderPath":"folders/Sprites/projectiles.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"projectiles","folderPath":"folders/Objects/barry/projectiles.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"projectiles","folderPath":"folders/Objects/shark/projectiles.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -123,8 +125,8 @@
     {"id":{"name":"spr_combat_box","path":"sprites/spr_combat_box/spr_combat_box.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_shark_combat_option_select","path":"rooms/rm_shark_combat_option_select/rm_shark_combat_option_select.yy",},},
     {"roomId":{"name":"rm_bear_combat_option_select","path":"rooms/rm_bear_combat_option_select/rm_bear_combat_option_select.yy",},},
+    {"roomId":{"name":"rm_shark_combat_option_select","path":"rooms/rm_shark_combat_option_select/rm_shark_combat_option_select.yy",},},
     {"roomId":{"name":"rm_bear_combat_attack","path":"rooms/rm_bear_combat_attack/rm_bear_combat_attack.yy",},},
     {"roomId":{"name":"rm_bear_combat_defending","path":"rooms/rm_bear_combat_defending/rm_bear_combat_defending.yy",},},
     {"roomId":{"name":"rm_bear_combat_victory","path":"rooms/rm_bear_combat_victory/rm_bear_combat_victory.yy",},},
