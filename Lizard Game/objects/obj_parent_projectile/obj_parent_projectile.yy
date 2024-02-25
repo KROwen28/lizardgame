@@ -32,7 +32,6 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"projectile_speed","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"2.5","varType":0,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"projectile_damage","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"20","varType":0,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"projectile_angle","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":0,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"defending_control","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":5,},
   ],
   "solid": false,
   "spriteId": null,

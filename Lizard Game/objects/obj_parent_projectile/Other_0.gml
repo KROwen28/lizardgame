@@ -2,6 +2,6 @@
 instance_destroy();
 
 if(obj_travis_portrait.dead = false)
-	defending_control.alarm[0] = 1;
+	obj_bear_game_defending.alarm[0] = 1;
 
 
