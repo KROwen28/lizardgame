@@ -10,7 +10,7 @@
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_game_defending","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"propertyId":{"name":"travis_instance","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"value":"inst_travis_1",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_game_defending","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"propertyId":{"name":"option_select_room","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"value":"0",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_game_defending","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"propertyId":{"name":"option_select_room","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"value":"rm_shark_combat_option_select",},
   ],
   "parent": {
     "name": "controls",
