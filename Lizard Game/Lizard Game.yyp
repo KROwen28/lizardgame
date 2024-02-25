@@ -50,6 +50,7 @@
   },
   "resources": [
     {"id":{"name":"obj_boxing_barry","path":"objects/obj_boxing_barry/obj_boxing_barry.yy",},},
+    {"id":{"name":"spr_sammy","path":"sprites/spr_sammy/spr_sammy.yy",},},
     {"id":{"name":"obj_parent_game_victory","path":"objects/obj_parent_game_victory/obj_parent_game_victory.yy",},},
     {"id":{"name":"spr_heart","path":"sprites/spr_heart/spr_heart.yy",},},
     {"id":{"name":"obj_bear_game_controls","path":"objects/obj_bear_game_controls/obj_bear_game_controls.yy",},},
