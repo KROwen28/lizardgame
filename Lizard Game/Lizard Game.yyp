@@ -69,6 +69,7 @@
     {"id":{"name":"_10__ender_pea","path":"sounds/_10__ender_pea/_10__ender_pea.yy",},},
     {"id":{"name":"spr_boxing_barry","path":"sprites/spr_boxing_barry/spr_boxing_barry.yy",},},
     {"id":{"name":"_5__missing_forest","path":"sounds/_5__missing_forest/_5__missing_forest.yy",},},
+    {"id":{"name":"obj_item_button","path":"objects/obj_item_button/obj_item_button.yy",},},
     {"id":{"name":"obj_bear_game_defending","path":"objects/obj_bear_game_defending/obj_bear_game_defending.yy",},},
     {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},},
     {"id":{"name":"spr_boxing_glove","path":"sprites/spr_boxing_glove/spr_boxing_glove.yy",},},
@@ -129,8 +130,8 @@
     {"id":{"name":"spr_combat_box","path":"sprites/spr_combat_box/spr_combat_box.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_bear_combat_option_select","path":"rooms/rm_bear_combat_option_select/rm_bear_combat_option_select.yy",},},
     {"roomId":{"name":"rm_shark_combat_option_select","path":"rooms/rm_shark_combat_option_select/rm_shark_combat_option_select.yy",},},
+    {"roomId":{"name":"rm_bear_combat_option_select","path":"rooms/rm_bear_combat_option_select/rm_bear_combat_option_select.yy",},},
     {"roomId":{"name":"rm_bear_combat_attack","path":"rooms/rm_bear_combat_attack/rm_bear_combat_attack.yy",},},
     {"roomId":{"name":"rm_bear_combat_defending","path":"rooms/rm_bear_combat_defending/rm_bear_combat_defending.yy",},},
     {"roomId":{"name":"rm_bear_combat_victory","path":"rooms/rm_bear_combat_victory/rm_bear_combat_victory.yy",},},
