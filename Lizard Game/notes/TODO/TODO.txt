@@ -1,0 +1,11 @@
+- splice music(beot) and implement DONE
+- FIX SHARK BUG
+- make item button in controls and swap control scheme to button select instead of mouse
+- change button to have yellow outline as well
+- add sound and hit effect during attack
+- add travis to attaack
+- make travis full sprite
+- add sammy into from asperite
+- draw sammy full sprite
+- create tileset and make basic map for overword
+- work on intro story and dialogue

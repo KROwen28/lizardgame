@@ -2,10 +2,12 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_shark_game_attacking",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_game_attacking","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"propertyId":{"name":"instance_health","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"value":"inst_shark",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_game_attacking","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"propertyId":{"name":"instance_health","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"value":"inst_shark.shark_health",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_game_attacking","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"propertyId":{"name":"enemy_portrait","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"value":"obj_shark_portrait",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_game_attacking","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"propertyId":{"name":"defending_room","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"value":"rm_shark_combat_defending",},
   ],

@@ -1,0 +1,9 @@
+loan shark
+ - briefcase (increase homing)
+ - shark bite
+ 
+boxing barry
+ - grunt bears
+ - add robotic limb
+ - add fire trail to boxing glove and make it fly in columns
+  

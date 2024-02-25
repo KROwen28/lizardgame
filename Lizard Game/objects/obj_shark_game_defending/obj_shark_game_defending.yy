@@ -5,11 +5,11 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_game_defending","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"propertyId":{"name":"object_select_room","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"value":"rm_shark_combat_option_select",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_game_defending","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"propertyId":{"name":"projectiles","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"value":"array_create(2, [obj_boxing_glove, obj_briefcase])",},
   ],
   "parent": {
     "name": "controls",
