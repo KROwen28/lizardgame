@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "spr_loan_shark",
   "bbox_bottom": 63,
-  "bbox_left": 2,
+  "bbox_left": 1,
   "bbox_right": 57,
   "bbox_top": 5,
   "bboxMode": 0,

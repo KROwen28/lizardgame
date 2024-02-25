@@ -1,7 +1,12 @@
-- splice music(beot) and implement DONE
-- FIX SHARK BUG
+- DONE splice music(beot) and implement
+- DONE FIX SHARK BUG
+
+- make shark actually take damage
+- fix shark game music
+- change origin point of heart (travvy) sprite and fix clamp method
 - make item button in controls and swap control scheme to button select instead of mouse
 - change button to have yellow outline as well
+
 - add sound and hit effect during attack
 - add travis to attaack
 - make travis full sprite

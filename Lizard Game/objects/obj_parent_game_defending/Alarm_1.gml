@@ -1,4 +1,4 @@
 /// @description end phase
-if(inst_travis.dead = false)
+if(travis_instance.dead = false)
 	room_goto(option_select_room);
 

@@ -20,7 +20,7 @@ if(spawn_area == 1){
 	y = random_range(0, room_height);
 }
 
-dir = point_direction(x,y,obj_travvy_bear.x,obj_travvy_bear.y);
+dir = point_direction(x,y,obj_travvy.x,obj_travvy.y);
 direction = dir;
 image_angle = dir + projectile_angle;
 speed = projectile_speed;
