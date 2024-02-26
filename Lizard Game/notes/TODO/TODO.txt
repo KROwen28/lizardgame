@@ -5,13 +5,13 @@
 - DONE change origin point of heart (travvy) sprite and fix clamp method
 - DONE make item button in controls and swap control scheme to button select instead of mouse
 - DONE change button to have yellow outline as well
+- DONE add sammy into from asperite
 
 -add damage and death portraits to shark
 
 - add sound and hit effect during attack
 - add travis to attaack
 - make travis full sprite
-- add sammy into from asperite
 - draw sammy full sprite
 - create tileset and make basic map for overword
 - work on intro story and dialogue

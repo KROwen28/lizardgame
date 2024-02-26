@@ -12,8 +12,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "barry",
-    "path": "folders/Objects/barry.yy",
+    "name": "controls",
+    "path": "folders/Objects/barry/controls.yy",
   },
   "parentObjectId": {
     "name": "obj_parent_game_attacking",
