@@ -20,7 +20,7 @@
   ],
   "parent": {
     "name": "barry",
-    "path": "folders/Rooms/barry.yy",
+    "path": "folders/Rooms/combat/barry.yy",
   },
   "parentRoom": null,
   "physicsSettings": {
