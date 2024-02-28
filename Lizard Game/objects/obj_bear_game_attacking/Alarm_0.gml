@@ -1,5 +1,5 @@
 /// @description on attack phase end
-inst_barry.bear_health -= round(attack_meter * 2);
+inst_barry.bear_health -= round(attack_meter / 4);
 if attack_meter > 0 
 obj_barry_portrait.alarm[1] = 1;
 

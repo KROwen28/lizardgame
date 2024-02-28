@@ -12,6 +12,7 @@
     {"name":"inst_shark","path":"rooms/rm_shark_combat_option_select/rm_shark_combat_option_select.yy",},
     {"name":"inst_508185CD","path":"rooms/rm_shark_combat_option_select/rm_shark_combat_option_select.yy",},
     {"name":"inst_5E2EA756","path":"rooms/rm_shark_combat_option_select/rm_shark_combat_option_select.yy",},
+    {"name":"inst_2219DBCC","path":"rooms/rm_shark_combat_option_select/rm_shark_combat_option_select.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -19,16 +20,17 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_travis_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_travis_portrait","path":"objects/obj_travis_portrait/obj_travis_portrait.yy",},"properties":[],"rotation":0.0,"scaleX":1.9999999,"scaleY":1.9999999,"x":0.0,"y":224.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5595485B_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_attack_button","path":"objects/obj_attack_button/obj_attack_button.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_attack_button","path":"objects/obj_attack_button/obj_attack_button.yy",},"propertyId":{"name":"attack_room","path":"objects/obj_attack_button/obj_attack_button.yy",},"value":"rm_shark_combat_attack",},
-          ],"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":96.0,"y":192.0,},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":192.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_shark","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_shark_portrait","path":"objects/obj_shark_portrait/obj_shark_portrait.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":256.0,"y":32.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_508185CD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_loan_shark","path":"objects/obj_loan_shark/obj_loan_shark.yy",},"properties":[],"rotation":0.0,"scaleX":1.7499999,"scaleY":1.7499999,"x":149.75,"y":104.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5E2EA756","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_shark_game_controls","path":"objects/obj_shark_game_controls/obj_shark_game_controls.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2219DBCC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_item_button_shark","path":"objects/obj_item_button_shark/obj_item_button_shark.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":192.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "parent": {
     "name": "shark",
-    "path": "folders/Rooms/shark.yy",
+    "path": "folders/Rooms/combat/shark.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

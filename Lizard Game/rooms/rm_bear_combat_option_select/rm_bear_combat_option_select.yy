@@ -12,6 +12,7 @@
     {"name":"inst_466B660F","path":"rooms/rm_bear_combat_option_select/rm_bear_combat_option_select.yy",},
     {"name":"inst_6AE05468","path":"rooms/rm_bear_combat_option_select/rm_bear_combat_option_select.yy",},
     {"name":"inst_barry","path":"rooms/rm_bear_combat_option_select/rm_bear_combat_option_select.yy",},
+    {"name":"inst_62782441","path":"rooms/rm_bear_combat_option_select/rm_bear_combat_option_select.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -19,16 +20,17 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_travis","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_travis_portrait","path":"objects/obj_travis_portrait/obj_travis_portrait.yy",},"properties":[],"rotation":0.0,"scaleX":1.9999999,"scaleY":1.9999999,"x":0.0,"y":224.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5595485B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_attack_button","path":"objects/obj_attack_button/obj_attack_button.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_attack_button","path":"objects/obj_attack_button/obj_attack_button.yy",},"propertyId":{"name":"attack_room","path":"objects/obj_attack_button/obj_attack_button.yy",},"value":"rm_bear_combat_attack",},
-          ],"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":96.0,"y":192.0,},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":192.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_466B660F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_bear_game_controls","path":"objects/obj_bear_game_controls/obj_bear_game_controls.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":32.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6AE05468","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_boxing_barry","path":"objects/obj_boxing_barry/obj_boxing_barry.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":64.0,"y":32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6AE05468","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_boxing_barry","path":"objects/obj_boxing_barry/obj_boxing_barry.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":128.0,"y":96.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_barry","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_barry_portrait","path":"objects/obj_barry_portrait/obj_barry_portrait.yy",},"properties":[],"rotation":0.0,"scaleX":1.875,"scaleY":1.875,"x":228.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_62782441","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_item_button_bear","path":"objects/obj_item_button_bear/obj_item_button_bear.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":192.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "parent": {
     "name": "barry",
-    "path": "folders/Rooms/barry.yy",
+    "path": "folders/Rooms/combat/barry.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

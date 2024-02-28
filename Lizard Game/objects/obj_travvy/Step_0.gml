@@ -22,9 +22,9 @@ if(velocity_x != 0 && velocity_y != 0){
 } ;
 
 // limit movement in bounds
-x = clamp(x,obj_combat_area.x, obj_combat_area.x+137);
+x = clamp(x,obj_combat_area.x+8, obj_combat_area.x+145);
 
-y= clamp(y,obj_combat_area.y, obj_combat_area.y+134);
+y= clamp(y,obj_combat_area.y+19, obj_combat_area.y+154);
 
 
 

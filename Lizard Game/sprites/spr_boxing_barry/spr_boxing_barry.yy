@@ -4,7 +4,7 @@
   "name": "spr_boxing_barry",
   "bbox_bottom": 63,
   "bbox_left": 5,
-  "bbox_right": 62,
+  "bbox_right": 63,
   "bbox_top": 5,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -14,7 +14,7 @@
   "For3D": false,
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"99e6fa8f-9ee3-486c-a303-95b241d543c2",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1c84a7f2-d396-44c5-a1c2-8e38cc180e07",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6d064b80-c11c-4710-bcd9-15fe5b4b98a7",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -24,7 +24,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e8516cc1-0a76-4251-b492-37659e738148","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 0,
+  "origin": 9,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
@@ -56,13 +56,13 @@
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"99e6fa8f-9ee3-486c-a303-95b241d543c2","path":"sprites/spr_boxing_barry/spr_boxing_barry.yy",},},},"Disabled":false,"id":"34cd66e9-e62f-4b9f-bfdc-9c189d56a8a9","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1c84a7f2-d396-44c5-a1c2-8e38cc180e07","path":"sprites/spr_boxing_barry/spr_boxing_barry.yy",},},},"Disabled":false,"id":"a1db53b9-b10f-481d-864c-30797656f178","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6d064b80-c11c-4710-bcd9-15fe5b4b98a7","path":"sprites/spr_boxing_barry/spr_boxing_barry.yy",},},},"Disabled":false,"id":"b9d86e90-f60b-4ac2-bb17-f4271d180761","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 0,
-    "yorigin": 0,
+    "xorigin": 30,
+    "yorigin": 32,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,

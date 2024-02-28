@@ -1,7 +1,10 @@
-audio_play_sound(beot_loop, 1, true);
 
+if(inst_travis_1.lizard_health + 20 < 100){
+inst_travis_1.lizard_health += 20;
+} else {
+	inst_travis_1.lizard_health = 100;
+}
 
-
-
+event_inherited();
 
 

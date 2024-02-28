@@ -18,7 +18,7 @@
   ],
   "parent": {
     "name": "shark",
-    "path": "folders/Rooms/shark.yy",
+    "path": "folders/Rooms/combat/shark.yy",
   },
   "parentRoom": null,
   "physicsSettings": {
