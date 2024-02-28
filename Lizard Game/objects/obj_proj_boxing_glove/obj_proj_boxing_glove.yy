@@ -15,7 +15,7 @@
   ],
   "parent": {
     "name": "projectiles",
-    "path": "folders/Objects/barry/projectiles.yy",
+    "path": "folders/Objects/Combat/barry/projectiles.yy",
   },
   "parentObjectId": {
     "name": "obj_parent_projectile",

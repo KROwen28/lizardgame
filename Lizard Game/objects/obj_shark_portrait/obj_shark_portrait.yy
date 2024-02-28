@@ -16,7 +16,7 @@
   ],
   "parent": {
     "name": "portraits",
-    "path": "folders/Objects/portraits.yy",
+    "path": "folders/Objects/Combat/portraits.yy",
   },
   "parentObjectId": {
     "name": "obj_parent_portrait",

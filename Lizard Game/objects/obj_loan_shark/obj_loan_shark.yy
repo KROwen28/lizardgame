@@ -7,7 +7,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "shark",
-    "path": "folders/Objects/shark.yy",
+    "path": "folders/Objects/Combat/shark.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -13,7 +13,7 @@
   ],
   "parent": {
     "name": "controls",
-    "path": "folders/Objects/shark/controls.yy",
+    "path": "folders/Objects/Combat/shark/controls.yy",
   },
   "parentObjectId": {
     "name": "obj_parent_game_attacking",

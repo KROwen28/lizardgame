@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_boxing_barry",
+  "name": "obj_yuta",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "barry",
-    "path": "folders/Objects/Combat/barry.yy",
+    "name": "overworld",
+    "path": "folders/Objects/overworld.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_boxing_barry",
-    "path": "sprites/spr_boxing_barry/spr_boxing_barry.yy",
+    "name": "yuta_proto_idle",
+    "path": "sprites/yuta_proto_idle/yuta_proto_idle.yy",
   },
   "spriteMaskId": null,
   "visible": true,

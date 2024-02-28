@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "yuta_proto_idle_strip2",
+  "name": "yuta_proto_idle",
   "bbox_bottom": 63,
   "bbox_left": 9,
   "bbox_right": 57,
@@ -33,7 +33,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "yuta_proto_idle_strip2",
+    "name": "yuta_proto_idle",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -55,8 +55,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d0328836-f47b-4edd-9acc-b364da9848f4","path":"sprites/yuta_proto_idle_strip2/yuta_proto_idle_strip2.yy",},},},"Disabled":false,"id":"8e88d997-afa3-4c0f-902b-671402961291","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"abe6b8bc-2541-4295-b7e3-04497916e4e8","path":"sprites/yuta_proto_idle_strip2/yuta_proto_idle_strip2.yy",},},},"Disabled":false,"id":"db130a03-feee-4fa3-a24c-ca739d6275dc","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d0328836-f47b-4edd-9acc-b364da9848f4","path":"sprites/yuta_proto_idle/yuta_proto_idle.yy",},},},"Disabled":false,"id":"8e88d997-afa3-4c0f-902b-671402961291","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"abe6b8bc-2541-4295-b7e3-04497916e4e8","path":"sprites/yuta_proto_idle/yuta_proto_idle.yy",},},},"Disabled":false,"id":"db130a03-feee-4fa3-a24c-ca739d6275dc","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

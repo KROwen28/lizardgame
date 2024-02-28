@@ -7,7 +7,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "barry",
-    "path": "folders/Objects/barry.yy",
+    "path": "folders/Objects/Combat/barry.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -14,7 +14,7 @@
   ],
   "parent": {
     "name": "controls",
-    "path": "folders/Objects/barry/controls.yy",
+    "path": "folders/Objects/Combat/barry/controls.yy",
   },
   "parentObjectId": {
     "name": "obj_parent_game_controls",
