@@ -1,11 +1,11 @@
 {
   "FolderOrderSettings": [
+    {"name":"Combat","order":3,"path":"folders/Objects/Combat.yy",},
     {"name":"buttons","order":1,"path":"folders/Objects/Combat/buttons.yy",},
     {"name":"controls_parents","order":2,"path":"folders/Objects/Combat/controls_parents.yy",},
     {"name":"portraits","order":3,"path":"folders/Objects/Combat/portraits.yy",},
     {"name":"shark","order":4,"path":"folders/Objects/Combat/shark.yy",},
     {"name":"overworld","order":1,"path":"folders/Objects/overworld.yy",},
-    {"name":"Combat","order":3,"path":"folders/Objects/Combat.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_parent_projectile","order":7,"path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},
