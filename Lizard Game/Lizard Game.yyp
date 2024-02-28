@@ -52,6 +52,7 @@
   },
   "resources": [
     {"id":{"name":"obj_boxing_barry","path":"objects/obj_boxing_barry/obj_boxing_barry.yy",},},
+    {"id":{"name":"yuta_proto_idle_strip2","path":"sprites/yuta_proto_idle_strip2/yuta_proto_idle_strip2.yy",},},
     {"id":{"name":"spr_sammy","path":"sprites/spr_sammy/spr_sammy.yy",},},
     {"id":{"name":"obj_parent_game_victory","path":"objects/obj_parent_game_victory/obj_parent_game_victory.yy",},},
     {"id":{"name":"spr_heart","path":"sprites/spr_heart/spr_heart.yy",},},
@@ -95,6 +96,7 @@
     {"id":{"name":"Font2","path":"fonts/Font2/Font2.yy",},},
     {"id":{"name":"spr_blackbox","path":"sprites/spr_blackbox/spr_blackbox.yy",},},
     {"id":{"name":"obj_combat_area","path":"objects/obj_combat_area/obj_combat_area.yy",},},
+    {"id":{"name":"yuta_proto","path":"sprites/yuta_proto/yuta_proto.yy",},},
     {"id":{"name":"spr_barry_portrait_ko","path":"sprites/spr_barry_portrait_ko/spr_barry_portrait_ko.yy",},},
     {"id":{"name":"spr_cock","path":"sprites/spr_cock/spr_cock.yy",},},
     {"id":{"name":"_2__gecko_type_beat","path":"sounds/_2__gecko_type_beat/_2__gecko_type_beat.yy",},},
@@ -137,6 +139,7 @@
     {"id":{"name":"rm_shark_combat_victory","path":"rooms/rm_shark_combat_victory/rm_shark_combat_victory.yy",},},
     {"id":{"name":"obj_proj_briefcase","path":"objects/obj_proj_briefcase/obj_proj_briefcase.yy",},},
     {"id":{"name":"spr_attack_button","path":"sprites/spr_attack_button/spr_attack_button.yy",},},
+    {"id":{"name":"mothboss_prototype","path":"sprites/mothboss_prototype/mothboss_prototype.yy",},},
     {"id":{"name":"spr_travis_portrait_tongue","path":"sprites/spr_travis_portrait_tongue/spr_travis_portrait_tongue.yy",},},
     {"id":{"name":"_1__beot","path":"sounds/_1__beot/_1__beot.yy",},},
     {"id":{"name":"spr_combat_box","path":"sprites/spr_combat_box/spr_combat_box.yy",},},
