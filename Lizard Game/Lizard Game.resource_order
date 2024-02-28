@@ -8,6 +8,7 @@
     {"name":"overworld","order":1,"path":"folders/Objects/overworld.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"TODO Overworld","order":1,"path":"notes/TODO Overworld/TODO Overworld.yy",},
     {"name":"obj_parent_projectile","order":7,"path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},
     {"name":"obj_travvy","order":9,"path":"objects/obj_travvy/obj_travvy.yy",},
     {"name":"obj_yuta","order":1,"path":"objects/obj_yuta/obj_yuta.yy",},

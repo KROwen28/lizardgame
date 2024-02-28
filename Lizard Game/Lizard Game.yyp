@@ -54,6 +54,7 @@
   },
   "resources": [
     {"id":{"name":"obj_boxing_barry","path":"objects/obj_boxing_barry/obj_boxing_barry.yy",},},
+    {"id":{"name":"TODO Overworld","path":"notes/TODO Overworld/TODO Overworld.yy",},},
     {"id":{"name":"yuta_proto_idle","path":"sprites/yuta_proto_idle/yuta_proto_idle.yy",},},
     {"id":{"name":"spr_sammy","path":"sprites/spr_sammy/spr_sammy.yy",},},
     {"id":{"name":"obj_parent_game_victory","path":"objects/obj_parent_game_victory/obj_parent_game_victory.yy",},},

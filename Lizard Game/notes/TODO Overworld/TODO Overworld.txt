@@ -1,0 +1,5 @@
+- add dialogue
+- more tiles (pathway?)
+- handle layering of sprites
+- add objects like house fence
+- create first indoor room
