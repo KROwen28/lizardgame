@@ -30,5 +30,12 @@ if(velocity_x != 0 && velocity_y != 0){
 	y += velocity_y;
 } ;
 
+// animation
+if(velocity_x != 0 || velocity_y !=0){
+	sprite_index = travis_overworld_walking;
+} else {
+	sprite_index = travis_overworld_idle;
+}
+
 
 

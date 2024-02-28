@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "travis_overworld",
-    "path": "sprites/travis_overworld/travis_overworld.yy",
+    "name": "travis_overworld_walking",
+    "path": "sprites/travis_overworld_walking/travis_overworld_walking.yy",
   },
   "spriteMaskId": null,
   "visible": true,
