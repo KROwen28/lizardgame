@@ -6,10 +6,12 @@
     {"name":"portraits","order":3,"path":"folders/Objects/Combat/portraits.yy",},
     {"name":"shark","order":4,"path":"folders/Objects/Combat/shark.yy",},
     {"name":"overworld","order":1,"path":"folders/Objects/overworld.yy",},
+    {"name":"loan_shark","order":5,"path":"folders/Sprites/loan_shark.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"TODO Overworld","order":1,"path":"notes/TODO Overworld/TODO Overworld.yy",},
     {"name":"obj_parent_projectile","order":7,"path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},
+    {"name":"spr_loan_shark_portrait","order":4,"path":"sprites/spr_loan_shark_portrait/spr_loan_shark_portrait.yy",},
     {"name":"obj_travvy","order":9,"path":"objects/obj_travvy/obj_travvy.yy",},
     {"name":"obj_yuta","order":1,"path":"objects/obj_yuta/obj_yuta.yy",},
     {"name":"obj_blackout","order":5,"path":"objects/obj_blackout/obj_blackout.yy",},
@@ -17,5 +19,8 @@
     {"name":"travis_overworld_idle","order":1,"path":"sprites/travis_overworld_idle/travis_overworld_idle.yy",},
     {"name":"obj_moth_boss","order":6,"path":"objects/obj_moth_boss/obj_moth_boss.yy",},
     {"name":"obj_proj_cock","order":8,"path":"objects/obj_proj_cock/obj_proj_cock.yy",},
+    {"name":"spr_loan_shark","order":3,"path":"sprites/spr_loan_shark/spr_loan_shark.yy",},
+    {"name":"loan_shark_profile","order":1,"path":"sprites/loan_shark_profile/loan_shark_profile.yy",},
+    {"name":"loan_shark_talking","order":2,"path":"sprites/loan_shark_talking/loan_shark_talking.yy",},
   ],
 }

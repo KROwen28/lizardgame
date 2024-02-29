@@ -9,10 +9,10 @@
   ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"ko_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"value":"spr_loan_shark_portrait",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"ko_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"value":"loan_shark_talking",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"victory_room","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"value":"rm_shark_combat_victory",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"dmg_face","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"value":"spr_loan_shark_portrait",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"value":"spr_loan_shark_portrait",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"dmg_face","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"value":"loan_shark_talking",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"value":"loan_shark_talking",},
   ],
   "parent": {
     "name": "portraits",
@@ -38,8 +38,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_loan_shark_portrait",
-    "path": "sprites/spr_loan_shark_portrait/spr_loan_shark_portrait.yy",
+    "name": "loan_shark_talking",
+    "path": "sprites/loan_shark_talking/loan_shark_talking.yy",
   },
   "spriteMaskId": null,
   "visible": true,
