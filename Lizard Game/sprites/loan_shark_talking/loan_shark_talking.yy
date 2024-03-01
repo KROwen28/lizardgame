@@ -4,8 +4,8 @@
   "name": "loan_shark_talking",
   "bbox_bottom": 63,
   "bbox_left": 0,
-  "bbox_right": 63,
-  "bbox_top": 5,
+  "bbox_right": 65,
+  "bbox_top": 4,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -76,5 +76,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 66,
 }
