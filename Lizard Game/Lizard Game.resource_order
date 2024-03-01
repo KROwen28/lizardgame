@@ -16,6 +16,7 @@
     {"name":"obj_yuta","order":1,"path":"objects/obj_yuta/obj_yuta.yy",},
     {"name":"obj_blackout","order":5,"path":"objects/obj_blackout/obj_blackout.yy",},
     {"name":"town_controls","order":2,"path":"objects/town_controls/town_controls.yy",},
+    {"name":"kuma_fighter_800px","order":6,"path":"sprites/kuma_fighter_800px/kuma_fighter_800px.yy",},
     {"name":"travis_overworld_idle","order":1,"path":"sprites/travis_overworld_idle/travis_overworld_idle.yy",},
     {"name":"obj_moth_boss","order":6,"path":"objects/obj_moth_boss/obj_moth_boss.yy",},
     {"name":"obj_proj_cock","order":8,"path":"objects/obj_proj_cock/obj_proj_cock.yy",},

@@ -103,6 +103,7 @@
     {"id":{"name":"obj_combat_area","path":"objects/obj_combat_area/obj_combat_area.yy",},},
     {"id":{"name":"yuta_proto","path":"sprites/yuta_proto/yuta_proto.yy",},},
     {"id":{"name":"spr_barry_portrait_ko","path":"sprites/spr_barry_portrait_ko/spr_barry_portrait_ko.yy",},},
+    {"id":{"name":"kuma_fighter_800px","path":"sprites/kuma_fighter_800px/kuma_fighter_800px.yy",},},
     {"id":{"name":"spr_cock","path":"sprites/spr_cock/spr_cock.yy",},},
     {"id":{"name":"_2__gecko_type_beat","path":"sounds/_2__gecko_type_beat/_2__gecko_type_beat.yy",},},
     {"id":{"name":"spr_barry_portrait","path":"sprites/spr_barry_portrait/spr_barry_portrait.yy",},},
@@ -155,9 +156,9 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"town","path":"rooms/town/town.yy",},},
+    {"roomId":{"name":"rm_bear_combat_option_select","path":"rooms/rm_bear_combat_option_select/rm_bear_combat_option_select.yy",},},
     {"roomId":{"name":"rm_shark_combat_option_select","path":"rooms/rm_shark_combat_option_select/rm_shark_combat_option_select.yy",},},
     {"roomId":{"name":"rm_shark_combat_defending","path":"rooms/rm_shark_combat_defending/rm_shark_combat_defending.yy",},},
-    {"roomId":{"name":"rm_bear_combat_option_select","path":"rooms/rm_bear_combat_option_select/rm_bear_combat_option_select.yy",},},
     {"roomId":{"name":"rm_bear_combat_attack","path":"rooms/rm_bear_combat_attack/rm_bear_combat_attack.yy",},},
     {"roomId":{"name":"rm_bear_combat_defending","path":"rooms/rm_bear_combat_defending/rm_bear_combat_defending.yy",},},
     {"roomId":{"name":"rm_bear_combat_victory","path":"rooms/rm_bear_combat_victory/rm_bear_combat_victory.yy",},},
