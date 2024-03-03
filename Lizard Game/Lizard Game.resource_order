@@ -10,6 +10,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"TODO Overworld","order":1,"path":"notes/TODO Overworld/TODO Overworld.yy",},
+    {"name":"Font4","order":1,"path":"fonts/Font4/Font4.yy",},
     {"name":"travis_bedroom","order":1,"path":"rooms/travis_bedroom/travis_bedroom.yy",},
     {"name":"spr_yuta_profile","order":10,"path":"sprites/spr_yuta_profile/spr_yuta_profile.yy",},
     {"name":"obj_parent_projectile","order":7,"path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},
@@ -23,6 +24,7 @@
     {"name":"obj_town_controls","order":2,"path":"objects/obj_town_controls/obj_town_controls.yy",},
     {"name":"spr_travis_hurt_animation","order":7,"path":"sprites/spr_travis_hurt_animation/spr_travis_hurt_animation.yy",},
     {"name":"spr_textbox","order":8,"path":"sprites/spr_textbox/spr_textbox.yy",},
+    {"name":"snd_sans","order":1,"path":"sounds/snd_sans/snd_sans.yy",},
     {"name":"kuma_fighter_800px","order":6,"path":"sprites/kuma_fighter_800px/kuma_fighter_800px.yy",},
     {"name":"indoor_tiles","order":2,"path":"tilesets/indoor_tiles/indoor_tiles.yy",},
     {"name":"spr_travis_overworld_idle","order":1,"path":"sprites/spr_travis_overworld_idle/spr_travis_overworld_idle.yy",},
