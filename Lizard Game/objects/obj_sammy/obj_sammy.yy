@@ -1,12 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_yuta",
+  "name": "obj_sammy",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_portrait","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"value":"obj_yuta_portrait",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_text","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"value":"\"Hi! I'm Yuta the shiba inu! woof!\"",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_portrait","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"value":"obj_sammy_portrait",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_text","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"value":"\"whaddya want kid, I'm about to go \\nfishin'\"",},
   ],
   "parent": {
     "name": "overworld",
@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_yuta_proto_idle",
-    "path": "sprites/spr_yuta_proto_idle/spr_yuta_proto_idle.yy",
+    "name": "spr_sammy_overworld",
+    "path": "sprites/spr_sammy_overworld/spr_sammy_overworld.yy",
   },
   "spriteMaskId": null,
   "visible": true,
