@@ -15,6 +15,10 @@ facing = -1;
 image_xscale = facing;
 
 nearbyNPC = noone;
-interactRange = 30;
+interactRange = 16;
 
+player_movement = true;
+
+open_portrait = noone;
+open_box = noone;
 
