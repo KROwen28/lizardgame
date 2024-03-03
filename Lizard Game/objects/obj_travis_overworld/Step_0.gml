@@ -1,5 +1,8 @@
 /// @description handles movement
 
+//depth sorting
+depth = -y
+
 //check keyboard directionals
 mv_right = keyboard_check(vk_right);
 mv_left = keyboard_check(vk_left);
