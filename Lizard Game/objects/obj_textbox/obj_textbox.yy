@@ -1,20 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_yuta",
+  "name": "obj_textbox",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_portrait","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"value":"obj_yuta_portrait",},
-  ],
+  "overriddenProperties": [],
   "parent": {
     "name": "overworld",
     "path": "folders/Objects/overworld.yy",
   },
-  "parentObjectId": {
-    "name": "obj_parent_npc",
-    "path": "objects/obj_parent_npc/obj_parent_npc.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_yuta_proto_idle",
-    "path": "sprites/spr_yuta_proto_idle/spr_yuta_proto_idle.yy",
+    "name": "spr_textbox",
+    "path": "sprites/spr_textbox/spr_textbox.yy",
   },
   "spriteMaskId": null,
   "visible": true,

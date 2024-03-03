@@ -14,4 +14,7 @@ colliding = false;
 facing = -1;
 image_xscale = facing;
 
+nearbyNPC = noone;
+interactRange = 30;
+
 

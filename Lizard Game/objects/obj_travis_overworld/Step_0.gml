@@ -35,10 +35,13 @@ if(velocity_x != 0 && velocity_y != 0){
 
 // animation
 if(velocity_x != 0 || velocity_y !=0){
-	sprite_index = travis_overworld_walking;
+	sprite_index = spr_travis_overworld_walking;
 } else {
-	sprite_index = travis_overworld_idle;
+	sprite_index = spr_travis_overworld_idle;
 }
+
+//Check for collision with NPCs
+nearbyNPC = collision_rectangle(x-interactRange,y-interactRange,x+interactRange,y+interactRange,obj_parent_npc,false,true);
 
 
 

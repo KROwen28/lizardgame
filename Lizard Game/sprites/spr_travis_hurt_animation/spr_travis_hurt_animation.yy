@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "travis_hurt_animation",
+  "name": "spr_travis_hurt_animation",
   "bbox_bottom": 31,
   "bbox_left": 0,
   "bbox_right": 28,
@@ -37,7 +37,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "travis_hurt_animation",
+    "name": "spr_travis_hurt_animation",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -59,12 +59,12 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"56c1b7fa-c9bf-4206-b6da-f843ee28ddaf","path":"sprites/travis_hurt_animation/travis_hurt_animation.yy",},},},"Disabled":false,"id":"495ab1e3-8975-4275-992c-1cc1d10638e2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8563cda1-70d7-493b-9dd6-278e32fb168e","path":"sprites/travis_hurt_animation/travis_hurt_animation.yy",},},},"Disabled":false,"id":"58b42de5-71e8-4f33-bde5-39dc1435d8ab","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3caf407c-559c-4a5c-b52a-87e4250a7498","path":"sprites/travis_hurt_animation/travis_hurt_animation.yy",},},},"Disabled":false,"id":"e231bc85-c23f-4f68-8112-6e8b801329c4","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bd0f63e2-2d37-4f11-a988-f5c5639fc7d0","path":"sprites/travis_hurt_animation/travis_hurt_animation.yy",},},},"Disabled":false,"id":"ae9b77e7-e3b5-42c2-8188-7ea0540f0654","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6e386014-c8b8-49ec-bcf9-cac3f1f03a9b","path":"sprites/travis_hurt_animation/travis_hurt_animation.yy",},},},"Disabled":false,"id":"1c41accb-907f-4f07-8047-eac74507787e","IsCreationKey":false,"Key":4.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d06b7fbb-4548-4bf5-b210-14de5c6e0fb4","path":"sprites/travis_hurt_animation/travis_hurt_animation.yy",},},},"Disabled":false,"id":"c543454e-8c64-42a7-b547-c74833057b37","IsCreationKey":false,"Key":5.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"56c1b7fa-c9bf-4206-b6da-f843ee28ddaf","path":"sprites/spr_travis_hurt_animation/spr_travis_hurt_animation.yy",},},},"Disabled":false,"id":"495ab1e3-8975-4275-992c-1cc1d10638e2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8563cda1-70d7-493b-9dd6-278e32fb168e","path":"sprites/spr_travis_hurt_animation/spr_travis_hurt_animation.yy",},},},"Disabled":false,"id":"58b42de5-71e8-4f33-bde5-39dc1435d8ab","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3caf407c-559c-4a5c-b52a-87e4250a7498","path":"sprites/spr_travis_hurt_animation/spr_travis_hurt_animation.yy",},},},"Disabled":false,"id":"e231bc85-c23f-4f68-8112-6e8b801329c4","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bd0f63e2-2d37-4f11-a988-f5c5639fc7d0","path":"sprites/spr_travis_hurt_animation/spr_travis_hurt_animation.yy",},},},"Disabled":false,"id":"ae9b77e7-e3b5-42c2-8188-7ea0540f0654","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6e386014-c8b8-49ec-bcf9-cac3f1f03a9b","path":"sprites/spr_travis_hurt_animation/spr_travis_hurt_animation.yy",},},},"Disabled":false,"id":"1c41accb-907f-4f07-8047-eac74507787e","IsCreationKey":false,"Key":4.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d06b7fbb-4548-4bf5-b210-14de5c6e0fb4","path":"sprites/spr_travis_hurt_animation/spr_travis_hurt_animation.yy",},},},"Disabled":false,"id":"c543454e-8c64-42a7-b547-c74833057b37","IsCreationKey":false,"Key":5.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

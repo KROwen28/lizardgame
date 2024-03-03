@@ -1,19 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_yuta",
+  "name": "obj_yuta_portrait",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_portrait","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"value":"obj_yuta_portrait",},
-  ],
+  "overriddenProperties": [],
   "parent": {
     "name": "overworld",
     "path": "folders/Objects/overworld.yy",
   },
   "parentObjectId": {
-    "name": "obj_parent_npc",
-    "path": "objects/obj_parent_npc/obj_parent_npc.yy",
+    "name": "obj_ow_parent_portrait",
+    "path": "objects/obj_ow_parent_portrait/obj_ow_parent_portrait.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -31,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_yuta_proto_idle",
-    "path": "sprites/spr_yuta_proto_idle/spr_yuta_proto_idle.yy",
+    "name": "spr_yuta_profile",
+    "path": "sprites/spr_yuta_profile/spr_yuta_profile.yy",
   },
   "spriteMaskId": null,
   "visible": true,

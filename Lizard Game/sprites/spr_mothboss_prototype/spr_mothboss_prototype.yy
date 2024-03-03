@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "mothboss_prototype",
+  "name": "spr_mothboss_prototype",
   "bbox_bottom": 63,
   "bbox_left": 11,
   "bbox_right": 47,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "mothboss_prototype",
+    "name": "spr_mothboss_prototype",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"34750448-f911-4891-a9c3-54be8c910e31","path":"sprites/mothboss_prototype/mothboss_prototype.yy",},},},"Disabled":false,"id":"762c80ee-187d-4b31-9e56-b8e13faf7527","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"34750448-f911-4891-a9c3-54be8c910e31","path":"sprites/spr_mothboss_prototype/spr_mothboss_prototype.yy",},},},"Disabled":false,"id":"762c80ee-187d-4b31-9e56-b8e13faf7527","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

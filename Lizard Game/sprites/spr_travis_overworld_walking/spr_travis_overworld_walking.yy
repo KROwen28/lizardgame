@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "travis_overworld_walking",
+  "name": "spr_travis_overworld_walking",
   "bbox_bottom": 31,
   "bbox_left": 0,
   "bbox_right": 30,
@@ -35,7 +35,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "travis_overworld_walking",
+    "name": "spr_travis_overworld_walking",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -57,10 +57,10 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c2b398ec-7e66-449a-9d4f-acb9a59c721d","path":"sprites/travis_overworld_walking/travis_overworld_walking.yy",},},},"Disabled":false,"id":"c013c72f-8248-494b-935c-e1e46784eefd","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d475ffb2-20c7-4a2d-b6bd-03f7ce359a17","path":"sprites/travis_overworld_walking/travis_overworld_walking.yy",},},},"Disabled":false,"id":"2f885a0c-0989-4223-8aef-5a492d765abe","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"730aa70a-b2dd-488d-8dc3-b5496884e766","path":"sprites/travis_overworld_walking/travis_overworld_walking.yy",},},},"Disabled":false,"id":"7535862c-6e2a-42b1-9dd7-9e980e229a4b","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3ad233fe-1178-4481-8542-ee816c38a042","path":"sprites/travis_overworld_walking/travis_overworld_walking.yy",},},},"Disabled":false,"id":"ba425f3a-7d27-40fa-aa0a-2cb819fd19e2","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c2b398ec-7e66-449a-9d4f-acb9a59c721d","path":"sprites/spr_travis_overworld_walking/spr_travis_overworld_walking.yy",},},},"Disabled":false,"id":"c013c72f-8248-494b-935c-e1e46784eefd","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d475ffb2-20c7-4a2d-b6bd-03f7ce359a17","path":"sprites/spr_travis_overworld_walking/spr_travis_overworld_walking.yy",},},},"Disabled":false,"id":"2f885a0c-0989-4223-8aef-5a492d765abe","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"730aa70a-b2dd-488d-8dc3-b5496884e766","path":"sprites/spr_travis_overworld_walking/spr_travis_overworld_walking.yy",},},},"Disabled":false,"id":"7535862c-6e2a-42b1-9dd7-9e980e229a4b","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3ad233fe-1178-4481-8542-ee816c38a042","path":"sprites/spr_travis_overworld_walking/spr_travis_overworld_walking.yy",},},},"Disabled":false,"id":"ba425f3a-7d27-40fa-aa0a-2cb819fd19e2","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
