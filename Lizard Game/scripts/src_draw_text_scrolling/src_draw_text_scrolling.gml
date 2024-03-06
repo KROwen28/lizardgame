@@ -91,7 +91,7 @@ function draw_text_scrolling(text_x, text_y, text_str, text_spd, text_slp, text_
     
     } else {
 		// alert textbox of finished text
-		obj_textbox.alarm[0] = 1;
+		//obj_textbox.alarm[0] = 1;
 	}
  
     //Draws the scrolling text.

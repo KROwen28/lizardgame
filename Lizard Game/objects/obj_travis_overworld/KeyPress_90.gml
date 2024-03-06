@@ -1,7 +1,7 @@
 /// @description Insert description here
 
 if(player_movement == false) {
-	//instance_destroy(open_box); instance_destroy(open_portrait);
+	instance_destroy(open_box); instance_destroy(open_portrait);
 	player_movement = true;	
 } else if(nearbyNPC && player_movement == true){
 	global.dialogue = nearbyNPC.my_text;
