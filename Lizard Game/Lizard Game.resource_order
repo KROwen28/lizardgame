@@ -1,5 +1,5 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Combat","order":3,"path":"folders/Objects/Combat.yy",},
     {"name":"buttons","order":1,"path":"folders/Objects/Combat/buttons.yy",},
     {"name":"controls_parents","order":2,"path":"folders/Objects/Combat/controls_parents.yy",},
@@ -8,7 +8,7 @@
     {"name":"overworld","order":1,"path":"folders/Objects/overworld.yy",},
     {"name":"loan_shark","order":5,"path":"folders/Sprites/loan_shark.yy",},
   ],
-  "ResourceOrderSettings": [
+  "ResourceOrderSettings":[
     {"name":"TODO Overworld","order":1,"path":"notes/TODO Overworld/TODO Overworld.yy",},
     {"name":"Font4","order":1,"path":"fonts/Font4/Font4.yy",},
     {"name":"travis_bedroom","order":1,"path":"rooms/travis_bedroom/travis_bedroom.yy",},
