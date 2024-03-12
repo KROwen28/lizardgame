@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_sammy_portrait",
   "bboxMode":0,
-  "bbox_bottom":199,
+  "bbox_bottom":191,
   "bbox_left":0,
-  "bbox_right":199,
+  "bbox_right":191,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":200,
+  "height":192,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"2613a1c2-044d-4557-bf18-fbb04749a5f1","blendMode":0,"displayName":"default","isLocked":false,"name":"2613a1c2-044d-4557-bf18-fbb04749a5f1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":200,
+  "width":192,
 }
