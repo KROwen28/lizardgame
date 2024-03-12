@@ -1,15 +1,15 @@
 {
   "$GMRoom":"",
-  "%Name":"wheatfield",
+  "%Name":"neighborville",
   "creationCodeFile":"",
   "inheritCode":true,
   "inheritCreationOrder":true,
   "inheritLayers":true,
   "instanceCreationOrder":[
-    {"name":"inst_1F140641","path":"rooms/wheatfield/wheatfield.yy",},
-    {"name":"inst_61E1618B","path":"rooms/wheatfield/wheatfield.yy",},
-    {"name":"inst_289B78C9","path":"rooms/wheatfield/wheatfield.yy",},
-    {"name":"inst_C3B402F","path":"rooms/wheatfield/wheatfield.yy",},
+    {"name":"inst_1F140641","path":"rooms/neighborville/neighborville.yy",},
+    {"name":"inst_61E1618B","path":"rooms/neighborville/neighborville.yy",},
+    {"name":"inst_289B78C9","path":"rooms/neighborville/neighborville.yy",},
+    {"name":"inst_C3B402F","path":"rooms/neighborville/neighborville.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -27,7 +27,7 @@
         ],"TileDataFormat":1,},"tilesetId":{"name":"town_tiles","path":"tilesets/town_tiles/town_tiles.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278218753,"depth":300,"effectEnabled":true,"effectType":"none","gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"wheatfield",
+  "name":"neighborville",
   "parent":{
     "name":"overworld",
     "path":"folders/Rooms/overworld.yy",
