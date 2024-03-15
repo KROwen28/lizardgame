@@ -19,7 +19,7 @@ if(velocity_x != 0 && velocity_y != 0){
 } else if(velocity_x == 0 || velocity_y == 0) {
 	x += velocity_x;
 	y += velocity_y;
-} ;
+};
 
 // limit movement in bounds
 x = clamp(x,obj_combat_area.x+8, obj_combat_area.x+145);
@@ -27,7 +27,10 @@ x = clamp(x,obj_combat_area.x+8, obj_combat_area.x+145);
 y= clamp(y,obj_combat_area.y+19, obj_combat_area.y+154);
 
 
-
+//effects
+if(velocity_x !=0 || velocity_y != 0){
+	effect_create_depth(depth, ef_spark, x, y, 0, c_yellow)
+};
 
 
 

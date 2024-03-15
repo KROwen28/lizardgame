@@ -10,12 +10,20 @@
   ],
   "managed":true,
   "name":"obj_barry_portrait",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"dmg_face","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"spr_barry_portrait_dmg",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"spr_barry_portrait",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"ko_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"spr_barry_portrait_ko",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"victory_room","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_bear_combat_victory",},
+  ],
   "parent":{
     "name":"portraits",
     "path":"folders/Objects/Combat/portraits.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_parent_portrait",
+    "path":"objects/obj_parent_portrait/obj_parent_portrait.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

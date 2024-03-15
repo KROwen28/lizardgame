@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_heart",
-    "path":"sprites/spr_heart/spr_heart.yy",
+    "name":"spr_lizard_heart",
+    "path":"sprites/spr_lizard_heart/spr_lizard_heart.yy",
   },
   "spriteMaskId":null,
   "visible":true,
