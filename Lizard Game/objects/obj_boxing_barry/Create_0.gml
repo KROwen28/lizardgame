@@ -1,2 +1,2 @@
 /// @description Insert description here
-event_inherited();
+depth = 1;

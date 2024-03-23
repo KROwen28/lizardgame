@@ -1,6 +1,7 @@
 /// @description Insert description here
-attack_meter += 2;
-
+if (strike == false){
+	attack_meter += 2;
+}
 
 
 
