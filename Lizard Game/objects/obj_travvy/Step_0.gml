@@ -29,7 +29,7 @@ y= clamp(y,obj_combat_area.y+19, obj_combat_area.y+154);
 
 //effects
 if(velocity_x !=0 || velocity_y != 0){
-	effect_create_depth(depth, ef_spark, x, y, 0, c_yellow)
+	//effect_create_depth(depth, ef_spark, x, y, 0, c_yellow)
 };
 
 

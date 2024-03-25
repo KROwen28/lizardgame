@@ -14,9 +14,9 @@
   "frames":[
     {"$GMSpriteFrame":"","%Name":"f6e5893a-bbc4-4d18-b70b-4bc893fbd8aa","name":"f6e5893a-bbc4-4d18-b70b-4bc893fbd8aa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
-  "gridX":0,
-  "gridY":0,
-  "height":64,
+  "gridX":32,
+  "gridY":32,
+  "height":96,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"fbd966b0-e313-4c99-b1ec-785d78562e40","blendMode":0,"displayName":"default","isLocked":false,"name":"fbd966b0-e313-4c99-b1ec-785d78562e40","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},

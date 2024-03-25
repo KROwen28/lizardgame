@@ -9,8 +9,8 @@
     {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_text","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"whaddya want kid, I'm about to go \\nfishin'\"",},
   ],
   "parent":{
-    "name":"overworld",
-    "path":"folders/Objects/overworld.yy",
+    "name":"npcs",
+    "path":"folders/Objects/overworld/npcs.yy",
   },
   "parentObjectId":{
     "name":"obj_parent_npc",

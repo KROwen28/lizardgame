@@ -1,18 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_ow_parent_portrait",
+  "%Name":"obj_fence",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_ow_parent_portrait",
+  "name":"obj_fence",
   "overriddenProperties":[],
   "parent":{
-    "name":"overworld",
-    "path":"folders/Objects/overworld.yy",
+    "name":"objects",
+    "path":"folders/Objects/overworld/objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_parent_obj",
+    "path":"objects/obj_parent_obj/obj_parent_obj.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_fence",
+    "path":"sprites/spr_fence/spr_fence.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
