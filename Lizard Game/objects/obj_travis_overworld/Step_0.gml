@@ -24,13 +24,17 @@ if(player_movement == true){
 	image_xscale = facing;
 
 	//move
-
+	
 	if(velocity_x != 0 && velocity_y != 0){
-		x += sign(velocity_x) * sqrt(abs(velocity_x));
-		y += sign(velocity_y) * sqrt(abs(velocity_y));
+		if(place_meeting(x+sign(velocity_x) * sqrt(abs(velocity_x)), y, obj_parent_obj))
+			x += sign(velocity_x) * sqrt(abs(velocity_x));
+		if(place_meeting(x, y+sign(velocity_y) * sqrt(abs(velocity_y)), obj_parent_obj))
+			y += sign(velocity_y) * sqrt(abs(velocity_y));
 	} else if(velocity_x == 0 || velocity_y == 0) {
-		x += velocity_x;
-		y += velocity_y;
+		if(place_meeting(x+velocity_x, y, obj_parent_obj))
+			x += velocity_x;
+		if(place_meeting(x, y+velocity_y, obj_parent_obj))
+			y += velocity_y;
 	} ;
 
 	// animation
