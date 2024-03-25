@@ -10,8 +10,8 @@
   "name":"obj_travis_attacker",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Combat",
+    "path":"folders/Objects/Combat.yy",
   },
   "parentObjectId":null,
   "persistent":false,
