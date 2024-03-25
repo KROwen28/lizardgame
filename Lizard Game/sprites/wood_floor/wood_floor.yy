@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"wood_floor",
   "bboxMode":0,
-  "bbox_bottom":31,
-  "bbox_left":32,
-  "bbox_right":63,
+  "bbox_bottom":114,
+  "bbox_left":12,
+  "bbox_right":95,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -14,9 +14,9 @@
   "frames":[
     {"$GMSpriteFrame":"","%Name":"f6e5893a-bbc4-4d18-b70b-4bc893fbd8aa","name":"f6e5893a-bbc4-4d18-b70b-4bc893fbd8aa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
-  "gridX":0,
-  "gridY":0,
-  "height":32,
+  "gridX":32,
+  "gridY":32,
+  "height":128,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"fbd966b0-e313-4c99-b1ec-785d78562e40","blendMode":0,"displayName":"default","isLocked":false,"name":"fbd966b0-e313-4c99-b1ec-785d78562e40","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":96,
 }
