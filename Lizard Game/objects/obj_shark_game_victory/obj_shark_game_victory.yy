@@ -7,7 +7,7 @@
   "managed":true,
   "name":"obj_shark_game_victory",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_game_victory","path":"objects/obj_parent_game_victory/obj_parent_game_victory.yy",},"propertyId":{"name":"next_room","path":"objects/obj_parent_game_victory/obj_parent_game_victory.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_shark_combat_option_select",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_game_victory","path":"objects/obj_parent_game_victory/obj_parent_game_victory.yy",},"propertyId":{"name":"next_room","path":"objects/obj_parent_game_victory/obj_parent_game_victory.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_shark_combat_option_select",},
   ],
   "parent":{
     "name":"controls",

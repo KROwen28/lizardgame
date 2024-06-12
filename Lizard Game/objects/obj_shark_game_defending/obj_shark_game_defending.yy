@@ -9,8 +9,8 @@
   "managed":true,
   "name":"obj_shark_game_defending",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_game_defending","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"propertyId":{"name":"travis_instance","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"inst_travis_1",},
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_game_defending","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"propertyId":{"name":"option_select_room","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_shark_combat_option_select",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_game_defending","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"propertyId":{"name":"travis_instance","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"inst_travis_1",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_game_defending","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"propertyId":{"name":"option_select_room","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_shark_combat_option_select",},
   ],
   "parent":{
     "name":"controls",

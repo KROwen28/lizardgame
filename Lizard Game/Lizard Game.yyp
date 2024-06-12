@@ -60,7 +60,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"Lizard Game",
   "resources":[
@@ -91,6 +91,7 @@
     {"id":{"name":"obj_item_button","path":"objects/obj_item_button/obj_item_button.yy",},},
     {"id":{"name":"obj_loan_shark","path":"objects/obj_loan_shark/obj_loan_shark.yy",},},
     {"id":{"name":"obj_moth_boss","path":"objects/obj_moth_boss/obj_moth_boss.yy",},},
+    {"id":{"name":"obj_mothboss","path":"objects/obj_mothboss/obj_mothboss.yy",},},
     {"id":{"name":"obj_parent_game_attacking","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},},
     {"id":{"name":"obj_parent_game_controls","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},},
     {"id":{"name":"obj_parent_game_defending","path":"objects/obj_parent_game_defending/obj_parent_game_defending.yy",},},
@@ -115,7 +116,6 @@
     {"id":{"name":"obj_travis_portrait","path":"objects/obj_travis_portrait/obj_travis_portrait.yy",},},
     {"id":{"name":"obj_travvy","path":"objects/obj_travvy/obj_travvy.yy",},},
     {"id":{"name":"obj_yuta","path":"objects/obj_yuta/obj_yuta.yy",},},
-    {"id":{"name":"obj_mothboss","path":"objects/obj_mothboss/obj_mothboss.yy",},},
     {"id":{"name":"house","path":"rooms/house/house.yy",},},
     {"id":{"name":"rm_bear_combat_attack","path":"rooms/rm_bear_combat_attack/rm_bear_combat_attack.yy",},},
     {"id":{"name":"rm_bear_combat_defending","path":"rooms/rm_bear_combat_defending/rm_bear_combat_defending.yy",},},

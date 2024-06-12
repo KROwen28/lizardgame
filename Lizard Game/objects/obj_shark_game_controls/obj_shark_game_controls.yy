@@ -10,9 +10,9 @@
   "managed":true,
   "name":"obj_shark_game_controls",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_game_controls","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"propertyId":{"name":"room_music","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"_1__beot",},
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_game_controls","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"propertyId":{"name":"defending_room","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_shark_combat_defending",},
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_game_controls","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"propertyId":{"name":"defending_room_object","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_shark_game_defending",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_game_controls","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"propertyId":{"name":"room_music","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"_1__beot",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_game_controls","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"propertyId":{"name":"defending_room","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_shark_combat_defending",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_game_controls","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"propertyId":{"name":"defending_room_object","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_shark_game_defending",},
   ],
   "parent":{
     "name":"controls",

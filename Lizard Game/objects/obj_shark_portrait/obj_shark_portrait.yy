@@ -9,10 +9,10 @@
   "managed":true,
   "name":"obj_shark_portrait",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"ko_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"loan_shark_talking",},
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"victory_room","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_shark_combat_victory",},
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"dmg_face","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"loan_shark_talking",},
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"loan_shark_talking",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"ko_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"loan_shark_talking",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"victory_room","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_shark_combat_victory",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"dmg_face","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"loan_shark_talking",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"propertyId":{"name":"portrait","path":"objects/obj_parent_portrait/obj_parent_portrait.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"loan_shark_talking",},
   ],
   "parent":{
     "name":"portraits",

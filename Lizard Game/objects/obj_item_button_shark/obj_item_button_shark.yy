@@ -5,7 +5,7 @@
   "managed":true,
   "name":"obj_item_button_shark",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_item_button","path":"objects/obj_item_button/obj_item_button.yy",},"propertyId":{"name":"game_controls","path":"objects/obj_item_button/obj_item_button.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_shark_game_controls",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_item_button","path":"objects/obj_item_button/obj_item_button.yy",},"propertyId":{"name":"game_controls","path":"objects/obj_item_button/obj_item_button.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_shark_game_controls",},
   ],
   "parent":{
     "name":"buttons",

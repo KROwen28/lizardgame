@@ -5,8 +5,8 @@
   "managed":true,
   "name":"obj_sammy",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_portrait","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"spr_sammy_portrait",},
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_text","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"whaddya want kid, I'm about to go fishin'\"",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_portrait","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"spr_sammy_portrait",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_text","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"whaddya want kid, I'm about to go fishin'\"",},
   ],
   "parent":{
     "name":"npcs",

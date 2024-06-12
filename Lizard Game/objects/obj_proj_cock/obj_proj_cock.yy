@@ -7,9 +7,9 @@
   "managed":true,
   "name":"obj_proj_cock",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_projectile","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"propertyId":{"name":"projectile_damage","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"15",},
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_projectile","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"propertyId":{"name":"projectile_speed","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_projectile","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"propertyId":{"name":"projectile_angle","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"-90",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_projectile","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"propertyId":{"name":"projectile_damage","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"15",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_projectile","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"propertyId":{"name":"projectile_speed","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_projectile","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"propertyId":{"name":"projectile_angle","path":"objects/obj_parent_projectile/obj_parent_projectile.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"-90",},
   ],
   "parent":{
     "name":"Combat",

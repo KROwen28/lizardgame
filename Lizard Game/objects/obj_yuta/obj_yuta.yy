@@ -5,8 +5,8 @@
   "managed":true,
   "name":"obj_yuta",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_portrait","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"spr_yuta_portrait",},
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_text","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Hi! I'm Yuta the shiba inu! woof!\"",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_portrait","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"spr_yuta_portrait",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_npc","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"propertyId":{"name":"my_text","path":"objects/obj_parent_npc/obj_parent_npc.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Hi! I'm Yuta the shiba inu! woof!\"",},
   ],
   "parent":{
     "name":"npcs",

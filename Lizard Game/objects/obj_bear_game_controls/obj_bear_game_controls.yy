@@ -10,7 +10,7 @@
   "managed":true,
   "name":"obj_bear_game_controls",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_game_controls","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"propertyId":{"name":"defending_room","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_bear_combat_defending",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_game_controls","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"propertyId":{"name":"defending_room","path":"objects/obj_parent_game_controls/obj_parent_game_controls.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_bear_combat_defending",},
   ],
   "parent":{
     "name":"controls",

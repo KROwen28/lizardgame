@@ -11,9 +11,9 @@
   "managed":true,
   "name":"obj_bear_game_attacking",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_game_attacking","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"propertyId":{"name":"enemy_portrait","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_barry_portrait",},
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_game_attacking","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"propertyId":{"name":"defending_room","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_bear_combat_defending",},
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_parent_game_attacking","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"propertyId":{"name":"enemy_instance","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"inst_barry",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_game_attacking","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"propertyId":{"name":"enemy_portrait","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_barry_portrait",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_game_attacking","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"propertyId":{"name":"defending_room","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_bear_combat_defending",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent_game_attacking","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"propertyId":{"name":"enemy_instance","path":"objects/obj_parent_game_attacking/obj_parent_game_attacking.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"inst_barry",},
   ],
   "parent":{
     "name":"controls",
